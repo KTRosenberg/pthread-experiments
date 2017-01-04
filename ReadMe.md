@@ -1,5 +1,9 @@
 ### POSIX Thread Testing
 
+January 2017
+
+Karl Toby Rosenberg
+
 - simple tests for pthread performance
 using the example of a running multiplication
 across a global 2D array 
@@ -17,7 +21,3 @@ to be an efficient solution.
 implementation practice.
 
 - run with make, clean with make clean
-
-January 2017
-
-Karl Toby Rosenberg
