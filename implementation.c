@@ -34,7 +34,7 @@ void product_no_multi()
             product *= buffer[sub_buffer][i];
             if (product == 0)
             {
-            	product = 1;
+                product = 1;
             }
         }
     }
@@ -60,7 +60,7 @@ void* multi_procedure(void* id)
         product *= sub_buffer[i];
         if (product == 0)
         {
-        	product = 1;
+            product = 1;
         }
     }
 
